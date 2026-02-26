@@ -35,8 +35,12 @@ cp -a [dir]/. [target dir]
 
 launch jupyter 
 ```
+tmux new python
+```
+```
 conda activate dynpie3
-tmux new python 
+```
+```
 jupyter-lab --no-browser --ip='cyclone2.gfi.uib.no' --port 8904
 ```
 
