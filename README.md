@@ -79,3 +79,22 @@ cp greb.mean.decon.exp-11111111111_rcp85_modwinds.nc ~/geof348/exercise3
 
 
 
+## Exercise 1: GREB First steps
+
+
+
+## Exercise 2: SSP Scenarios and experiments
+
+
+
+## Exercise 3: Imposing different windfields
+
+
+
+## Exercise 4: Anomalies and CMIP6
+
+
+
+
+
+
