@@ -1,7 +1,10 @@
-cheatsheet cyclone2/Linux
-(note, when a path is written between [], do not include [] in the command line)
+# GEOF348 Cyclone2/linux cheatsheet
 
-connect to cyclone
+This includes some of the most common console commands to use cyclone/linux. The commands for specific exercises are found in their respective files. 
+
+Note, when anything is written between [], do not include [] in the command line.
+
+Connecting to cyclone
 ```
 ssh jomor5090@cyclone2.gfi.uib.no
 ```
