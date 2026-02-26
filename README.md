@@ -1,4 +1,4 @@
-# GEOF348 Cyclone2/linux cheatsheet
+# GEOF348 Linux/Cyclone/GREB cheatsheet
 
 This repository contains some of the most useful commands for Linux/Cyclone/GREB for the GEOF348 assignents and modeling project. Cyclone setup and exercises are also presented under the cheatsheet.  
 
