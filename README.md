@@ -56,7 +56,11 @@ diff run.greb.decon_mean_climate.csh run.greb.decon_mean_climate_modwinds.csh
 ```
 
 convert greb output to netCDF4
+```
 cdo -f nc import_binary greb.mean.decon.exp-11111111111_rcp85_modwinds.ctl greb.mean.decon.exp-11111111111_rcp85_modwinds.nc
+```
 
-
+dummy line
+```
 cp greb.mean.decon.exp-11111111111_rcp85_modwinds.nc ~/geof348/exercise3
+```
