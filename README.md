@@ -6,7 +6,7 @@ This repository contains some of the most useful commands for Linux/Cyclone/GREB
 ## General useful commands
 This includes some of the most common console commands to use cyclone/linux.
 
-Note, when anything is written between [], do not include [] in the command line.
+**Note, when anything is written between [], do not include [] in the command line.**
 
 Connecting to cyclone
 ```
