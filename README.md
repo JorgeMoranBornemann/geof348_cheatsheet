@@ -41,7 +41,7 @@ tmux new python
 conda activate dynpie3
 ```
 ```
-jupyter-lab --no-browser --ip='cyclone2.gfi.uib.no' --port 8904
+jupyter-lab --no-browser --ip='cyclone2.gfi.uib.no' --port [port nr]
 ```
 
 open a .sh or .csh file (from working directory where the file is)
