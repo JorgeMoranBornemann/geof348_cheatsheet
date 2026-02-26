@@ -35,7 +35,7 @@ cp -a [dir]/. [target dir]
 
 launch jupyter 
 ```
-tmux new python
+tmux new jupyter
 ```
 ```
 conda activate dynpie3
@@ -43,6 +43,18 @@ conda activate dynpie3
 ```
 jupyter-lab --no-browser --ip='cyclone2.gfi.uib.no' --port [port nr]
 ```
+close jupyter and run 
+```
+tmux kill-session -t jupyter
+```
+
+
+
+
+
+
+
+
 
 open a .sh or .csh file (from working directory where the file is)
 ```
