@@ -35,7 +35,7 @@ cp -a [dir]/. [target dir]
 
 launch jupyter 
 ```
-tmux new jupyter
+tmux new -s jupyter
 ```
 ```
 conda activate dynpie3
