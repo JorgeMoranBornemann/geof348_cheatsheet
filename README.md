@@ -1,5 +1,6 @@
 # GEOF348 Cyclone2/linux cheatsheet
 
+## General useful commands
 This includes some of the most common console commands to use cyclone/linux. The commands for specific exercises are found in their respective files. 
 
 Note, when anything is written between [], do not include [] in the command line.
@@ -67,3 +68,11 @@ dummy line
 ```
 cp greb.mean.decon.exp-11111111111_rcp85_modwinds.nc ~/geof348/exercise3
 ```
+
+
+
+
+## Exercise 0: Setting up Cyclone
+
+
+
