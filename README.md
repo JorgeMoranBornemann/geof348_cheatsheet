@@ -10,15 +10,15 @@ Note, when anything is written between [], do not include [] in the command line
 
 Connecting to cyclone
 ```
-ssh jomor5090@cyclone2.gfi.uib.no
+ssh [uib username]@cyclone2.gfi.uib.no
 ```
 
-copy from local to cyclone
+copy file from local to cyclone
 ```
-scp “[path]" jomor5090@cyclone2.gfi.uib.no:~/geof348/[dir]
-```
+scp “[file path]" jomor5090@cyclone2.gfi.uib.no:~/geof348/[dir]
+``` (Single file)
 
-copy from cyclone to cyclone
+copy file from cyclone to cyclone
 (single file)
 ```
 cp [path] [path] 
